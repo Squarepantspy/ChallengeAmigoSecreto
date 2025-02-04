@@ -45,4 +45,3 @@ Si deseas mejorar el proyecto, puedes hacer un **fork**, realizar tus cambios y 
 
 ---
 ✨ **¡Gracias por visitar este proyecto! Espero que te sea útil.** ✨
-![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
