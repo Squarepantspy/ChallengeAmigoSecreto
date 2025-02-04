@@ -1,6 +1,6 @@
 # Challenge Alura One Amigo Secreto
 ![Badge en Desarollo](https://img.shields.io/badge/STATUS-DEPLOYED-green)  
-[Enlace Github pages](https://squarepantspy.github.io/ChallengeAmigoSecreto/)
+[Enlace Github pages](https://squarepantspy.github.io/ChallengeAmigoSecreto/)  
 Este es un proyecto en **HTML, CSS y JavaScript** que permite realizar un **sorteo de un amigo** a partir de una lista de nombres agregados por el usuario.
 
 ## 🚀 Características
