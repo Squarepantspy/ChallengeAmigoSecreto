@@ -21,6 +21,9 @@ const actualizarAmigos = ()=>{
     }
     listado.innerHTML = htmlist;
     htmlist='';
+    //otra forma de hacerlo
+    /* let mapeado = friends.map(friend => `<li>${friend}</li>`).join('');
+    listado.innerHTML = mapeado */
 }
 const sortearAmigo=()=>{
     let random = Math.floor(Math.random()*friends.length);
